@@ -35,7 +35,7 @@ Dez consultas curadas foram coletadas de forma **exaustiva** (todas as páginas 
 1. **Extração:** raspagem paginada da interface pública de busca (id do processo, data de publicação, comarca), com pausas entre requisições para respeitar a proteção anti-bot do site.
 2. **Deduplicação:** por número de identificação do processo (há sobreposição natural entre consultas).
 3. **Filtro temporal:** exclusão de casos anteriores a 2018.
-4. **Geocodificação:** a comarca é extraída do título do resultado e normalizada para o município de SP correspondente (104 municípios únicos identificados). Um caso (comarca "Mogi Mirim") ficou fora do mapa por ausência desse município no GeoJSON fonte utilizado — **não foi fabricada geometria para supri-lo**.
+4. **Geocodificação:** a comarca é extraída do título do resultado e normalizada para o município de SP correspondente. 103 municípios únicos identificados, cobrindo **100% dos 782 casos** (nenhum caso perdido). O caso de comarca "Mogi Mirim" foi inicialmente perdido por uma variante ortográfica não tratada: a fonte geoespacial (`tbrugz/geodata-br`) registra esse município com a grafia histórica "Moji Mirim" (código IBGE 3530805); corrigido via tabela de alias.
 
 ## Estrutura de arquivos
 
@@ -54,6 +54,7 @@ data/meta.json           — metadados e resumos por consulta/ano
 
 - Cobre apenas TJSP; os demais tribunais (TRF3, TRE-SP, TRT02, TRT15) estão pendentes.
 - A comarca é inferida do título do resultado de busca, não do inteiro teor da decisão — pode haver imprecisão residual em casos de formatação atípica do processo.
+- Cada caso está mapeado a um único município (o da comarca de origem do processo); não há desagregação por vara/foro regional dentro do município.
 - Não houve leitura do mérito das decisões; a amostra reflete ocorrência de termos nos resultados de busca, não necessariamente a aplicação efetiva de "decisão automatizada" no sentido jurídico do art. 20 da LGPD.
 
 ---
