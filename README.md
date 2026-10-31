@@ -40,20 +40,31 @@ Dez consultas curadas foram coletadas de forma **exaustiva** (todas as páginas 
 
 ## Dashboard interativo
 
-O mapa coroplético mostra a concentração de casos por município. **Clicando em qualquer município no mapa, ou em qualquer linha do ranking lateral**, abre-se um quadro com a lista numerada de todos os processos daquele município — número CNJ, data e link direto para a decisão no Jusbrasil — para os 103 municípios do estado, não apenas São Paulo.
+O mapa coroplético mostra a concentração de casos por município. **Clicando em qualquer município no mapa, ou em qualquer linha do ranking lateral**, abre-se um quadro com a lista numerada de todos os processos daquele município — número CNJ, data, **valor da causa** e link direto para a decisão no Jusbrasil — para os 103 municípios do estado, não apenas São Paulo, com o **somatório total do valor da causa em destaque** na linha final de cada quadro.
+
+## Valor da causa
+
+Para cada um dos 782 processos, foi feita uma consulta pública ao **e-SAJ/TJSP** (1º grau, subsistema `cpopg`), a partir do número CNJ completo, para extrair o campo "valor da ação" exibido na página de consulta processual.
+
+- **Cobertura:** 545 dos 782 casos (69,7%) tiveram o valor da causa localizado; somatório geral de **R$ 13.791.557,70** entre os casos com valor encontrado.
+- **Padrão de cobertura por faixa do CNJ:** processos cujo número começa com o dígito "1" (1º grau, instância de origem) foram localizados em ~98% dos casos (527/539); já processos que começam com "4" não retornaram valor (0/222) — esse padrão é consistente em toda a base e indica que esses processos tramitam originalmente em outro sistema/instância (provável 2º grau ou recursal), não disponível nessa consulta ao `cpopg`.
+- **Tratamento dos casos sem valor:** marcados como "não disponível" no dashboard e na planilha, e **excluídos do somatório** — nunca presumidos como zero. O quadro de cada município sinaliza quando o somatório cobre apenas parte dos processos daquele município.
+- **Dados brutos da coleta:** `data/valor_causa.csv` (um valor por CNJ consultado, com status `OK`/`NOT_FOUND`/`NO_FIELD`); `data/municipio_sums.json` (somatório, nº de casos com valor e nº total de casos, por município).
 
 ## Estrutura de arquivos
 
 ```
-index.html                    — dashboard (Leaflet, mapa coroplético + ranking + quadro de processos por município)
-dados_jurimetria_782_casos.xlsx — planilha com os 782 casos (CNJ + link), resumo por município e por consulta
+index.html                    — dashboard (Leaflet, mapa coroplético + ranking + quadro de processos por município, com valor da causa e somatório)
+dados_jurimetria_782_casos.xlsx — planilha com os 782 casos (CNJ + valor da causa + link), resumo por município (com somatório) e por consulta
 sp_municipios.json             — GeoJSON simplificado dos 645 municípios de SP (fonte: tbrugz/geodata-br)
 leaflet.css, images/           — assets da biblioteca Leaflet 1.9.4
 data/raw_results_v2.csv        — dados brutos coletados (933 linhas, antes de dedup/filtro), com CNJ completo
 data/clean_results_v2.csv      — após deduplicação e filtro 2018+ (782 linhas), com CNJ completo
-data/geo_input_v2.csv          — clean_results_v2.csv + coluna de município normalizado + código IBGE
+data/geo_input_v2.csv          — clean_results_v2.csv + município normalizado + código IBGE + valor da causa
 data/municipio_counts.json     — contagem agregada por município (id IBGE)
-data/municipio_cases.json      — lista de processos (CNJ + link + data) por município, usada pelo quadro do dashboard
+data/municipio_cases.json      — lista de processos (CNJ + link + data + valor da causa) por município, usada pelo quadro do dashboard
+data/municipio_sums.json       — somatório do valor da causa, nº de casos com valor e nº total de casos, por município
+data/valor_causa.csv           — coleta bruta do valor da causa por CNJ (consulta e-SAJ/TJSP), com status OK/NOT_FOUND/NO_FIELD
 data/meta.json                 — metadados e resumos por consulta/ano
 data/raw_results.csv, clean_results.csv, geo_input.csv — versões anteriores (sem CNJ/link), mantidas para histórico
 ```
@@ -64,6 +75,7 @@ data/raw_results.csv, clean_results.csv, geo_input.csv — versões anteriores (
 - A comarca é inferida do título do resultado de busca (ou da página individual do caso, nos ~2% de casos em que o título não trazia o número formatado), não do inteiro teor da decisão — pode haver imprecisão residual em casos de formatação atípica do processo.
 - Cada caso está mapeado a um único município (o da comarca de origem do processo); não há desagregação por vara/foro regional dentro do município.
 - Não houve leitura do mérito das decisões; a amostra reflete ocorrência de termos nos resultados de busca, não necessariamente a aplicação efetiva de "decisão automatizada" no sentido jurídico do art. 20 da LGPD.
+- O valor da causa está disponível apenas para 69,7% dos casos (ver seção acima); processos cujo CNJ começa com "4" não retornam esse campo na consulta pública ao `cpopg` do e-SAJ/TJSP. Os somatórios apresentados no dashboard e na planilha refletem apenas os processos com valor efetivamente localizado — não são proxies do valor total real da amostra.
 
 ---
 **AVISO:** Este repositório foi gerado com auxílio de IA. Revisão humana e validação metodológica são necessárias antes de uso em publicação acadêmica.
