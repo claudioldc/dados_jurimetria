@@ -1,1 +1,85 @@
-{"total_casos": 782, "periodo": "2018-2026", "tribunal": "TJSP", "data_coleta": "2026-10-30", "fonte": "Jusbrasil (busca de jurisprudência)", "query_summary": [{"query": "Q10_CD_recfacial_x_normatec", "label": "\"reconhecimento facial\" + \"norma técnica\"", "count": 303}, {"query": "Q5_C_bloqconta_x_A_decautom", "label": "\"bloqueio de conta\" + \"decisão automatizada\"", "count": 196}, {"query": "Q2_B_algo_x_A_decautom", "label": "\"algoritmo\" + \"decisão automatizada\"", "count": 131}, {"query": "Q6_C_banimento_x_A_decautom", "label": "\"banimento\" + \"decisão automatizada\"", "count": 65}, {"query": "Q1_B_IA_x_A_decautom", "label": "\"inteligência artificial\" + \"decisão automatizada\"", "count": 34}, {"query": "Q3_C_recfacial_x_A_decautom", "label": "\"reconhecimento facial\" + \"decisão automatizada\"", "count": 27}, {"query": "Q9_BD_IA_x_normatec", "label": "\"inteligência artificial\" + \"norma técnica\"", "count": 12}, {"query": "Q7_C_modcontent_x_A_decautom", "label": "\"moderação de conteúdo\" + \"decisão automatizada\"", "count": 10}, {"query": "Q8_C_perfilamento_x_A_decautom", "label": "\"perfilamento\" + \"decisão automatizada\"", "count": 3}, {"query": "Q4_C_scorecredito_x_A_decautom", "label": "\"score de crédito\" + \"decisão automatizada\"", "count": 1}], "year_summary": [{"year": "2021", "count": 19}, {"year": "2022", "count": 48}, {"year": "2023", "count": 65}, {"year": "2024", "count": 126}, {"year": "2025", "count": 167}, {"year": "2026", "count": 357}]}
+{
+  "total_casos": 779,
+  "periodo": "2018-2026",
+  "tribunal": "TJSP",
+  "data_coleta": "2026-10-30",
+  "fonte": "Jusbrasil (busca de jurisprudência)",
+  "query_summary": [
+    {
+      "query": "Q10_CD_recfacial_x_normatec",
+      "label": "\"reconhecimento facial\" + \"norma técnica\"",
+      "count": 302
+    },
+    {
+      "query": "Q5_C_bloqconta_x_A_decautom",
+      "label": "\"bloqueio de conta\" + \"decisão automatizada\"",
+      "count": 196
+    },
+    {
+      "query": "Q2_B_algo_x_A_decautom",
+      "label": "\"algoritmo\" + \"decisão automatizada\"",
+      "count": 131
+    },
+    {
+      "query": "Q6_C_banimento_x_A_decautom",
+      "label": "\"banimento\" + \"decisão automatizada\"",
+      "count": 65
+    },
+    {
+      "query": "Q1_B_IA_x_A_decautom",
+      "label": "\"inteligência artificial\" + \"decisão automatizada\"",
+      "count": 34
+    },
+    {
+      "query": "Q3_C_recfacial_x_A_decautom",
+      "label": "\"reconhecimento facial\" + \"decisão automatizada\"",
+      "count": 27
+    },
+    {
+      "query": "Q9_BD_IA_x_normatec",
+      "label": "\"inteligência artificial\" + \"norma técnica\"",
+      "count": 10
+    },
+    {
+      "query": "Q7_C_modcontent_x_A_decautom",
+      "label": "\"moderação de conteúdo\" + \"decisão automatizada\"",
+      "count": 10
+    },
+    {
+      "query": "Q8_C_perfilamento_x_A_decautom",
+      "label": "\"perfilamento\" + \"decisão automatizada\"",
+      "count": 3
+    },
+    {
+      "query": "Q4_C_scorecredito_x_A_decautom",
+      "label": "\"score de crédito\" + \"decisão automatizada\"",
+      "count": 1
+    }
+  ],
+  "year_summary": [
+    {
+      "year": "2021",
+      "count": 19
+    },
+    {
+      "year": "2022",
+      "count": 48
+    },
+    {
+      "year": "2023",
+      "count": 65
+    },
+    {
+      "year": "2024",
+      "count": 126
+    },
+    {
+      "year": "2025",
+      "count": 166
+    },
+    {
+      "year": "2026",
+      "count": 355
+    }
+  ]
+}

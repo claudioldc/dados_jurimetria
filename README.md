@@ -9,7 +9,7 @@ Repositório de jurimetria geoespacializado, construído no âmbito da pesquisa 
 - **Tribunal:** TJSP (apenas — TRF3, TRE-SP, TRT02 e TRT15 ficam para rodadas futuras)
 - **Período:** a partir de 2018 (recorte do projeto de doutorado)
 - **Fonte:** busca pública de jurisprudência no Jusbrasil
-- **Casos únicos coletados:** 782 (após deduplicação por número de processo e filtro temporal), cada um com o **número de processo (CNJ) completo** e o **link direto para a decisão no Jusbrasil**
+- **Casos únicos coletados:** 779 (após deduplicação por número de processo, filtro temporal e exclusão de 3 casos fora do escopo — ver "Limitações"), cada um com o **número de processo (CNJ) completo** e o **link direto para a decisão no Jusbrasil**
 
 ## Metodologia
 
@@ -19,13 +19,13 @@ Dez consultas curadas foram coletadas de forma **exaustiva** (todas as páginas 
 
 | Consulta | Eixos | Resultados (pós-dedup/filtro) |
 |---|---|---|
-| `"reconhecimento facial" "norma técnica"` | C×D | 303 |
+| `"reconhecimento facial" "norma técnica"` | C×D | 302 |
 | `"bloqueio de conta" "decisão automatizada"` | C×A | 196 |
 | `"algoritmo" "decisão automatizada"` | B×A | 131 |
 | `"banimento" "decisão automatizada"` | C×A | 65 |
 | `"inteligência artificial" "decisão automatizada"` | B×A | 34 |
 | `"reconhecimento facial" "decisão automatizada"` | C×A | 27 |
-| `"inteligência artificial" "norma técnica"` | B×D | 12 |
+| `"inteligência artificial" "norma técnica"` | B×D | 10 |
 | `"moderação de conteúdo" "decisão automatizada"` | C×A | 10 |
 | `"perfilamento" "decisão automatizada"` | C×A | 3 |
 | `"score de crédito" "decisão automatizada"` | C×A | 1 |
@@ -35,8 +35,9 @@ Dez consultas curadas foram coletadas de forma **exaustiva** (todas as páginas 
 1. **Extração:** raspagem paginada da interface pública de busca, capturando para cada resultado o **id interno do Jusbrasil**, a **data**, o **número de processo completo no padrão CNJ** (`NNNNNNN-DD.AAAA.J.TR.OOOO`, extraído do título do resultado ou da página individual do caso quando o título não trazia o número formatado) e a **comarca de origem**, com pausas entre requisições para respeitar a proteção anti-bot do site.
 2. **Deduplicação:** por número de identificação do processo (há sobreposição natural entre consultas).
 3. **Filtro temporal:** exclusão de casos anteriores a 2018.
-4. **Geocodificação:** a comarca é extraída do título/página do resultado e normalizada para o município de SP correspondente. 103 municípios únicos identificados, cobrindo **100% dos 782 casos** (nenhum caso perdido). O caso de comarca "Mogi Mirim" foi inicialmente perdido por uma variante ortográfica não tratada: a fonte geoespacial (`tbrugz/geodata-br`) registra esse município com a grafia histórica "Moji Mirim" (código IBGE 3530805); corrigido via tabela de alias.
-5. **Link direto:** o link para a decisão no Jusbrasil é reconstruído a partir do id interno (`https://www.jusbrasil.com.br/jurisprudencia/tj-sp/{id}`), disponível para os 782 casos.
+4. **Geocodificação:** a comarca é extraída do título/página do resultado e normalizada para o município de SP correspondente. 103 municípios únicos identificados, cobrindo **100% dos 779 casos** (nenhum caso perdido). O caso de comarca "Mogi Mirim" foi inicialmente perdido por uma variante ortográfica não tratada: a fonte geoespacial (`tbrugz/geodata-br`) registra esse município com a grafia histórica "Moji Mirim" (código IBGE 3530805); corrigido via tabela de alias.
+5. **Link direto:** o link para a decisão no Jusbrasil é reconstruído a partir do id interno (`https://www.jusbrasil.com.br/jurisprudencia/tj-sp/{id}`), disponível para os 779 casos.
+6. **Revisão manual de escopo:** 3 casos inicialmente capturados pela busca textual eram, na verdade, processos criminais (desabamento/desmoronamento, sequestro/cárcere privado e tráfico de drogas) — fora do escopo civil da pesquisa — e foram excluídos do banco após revisão manual (ver "Limitações").
 
 ## Dashboard interativo
 
@@ -44,27 +45,28 @@ O mapa coroplético mostra a concentração de casos por município. **Clicando 
 
 ## Valor da causa
 
-Para cada um dos 782 processos, foi feita uma consulta pública a duas fontes, conforme o sistema de origem do processo (identificável pelo dígito inicial do número CNJ):
+Para cada um dos 779 processos, foi feita uma consulta pública a duas fontes, conforme o sistema de origem do processo (identificável pelo dígito inicial do número CNJ), complementada por verificação manual nos casos remanescentes:
 
 - **e-SAJ/TJSP** (1º grau, subsistema `cpopg`) para processos com CNJ iniciado em "0" ou "1" — a grande maioria dos casos.
 - **eproc/TJSP** (Juizados Especiais Cíveis) para processos com CNJ iniciado em "4", que não tramitam no e-SAJ e por isso não retornavam valor na primeira consulta.
+- **Verificação manual** para os 14 casos que não retornaram valor em nenhuma das duas consultas automatizadas — 10 tiveram o valor confirmado manualmente; 1 corre em segredo de justiça (sem valor divulgado publicamente); 3 eram, na verdade, processos criminais fora do escopo da pesquisa e foram excluídos do banco (ver "Limitações").
 
-Em ambas, o campo "valor da causa"/"valor da ação" foi extraído a partir do número CNJ completo, na página de consulta processual.
+Em ambas as consultas automatizadas, o campo "valor da causa"/"valor da ação" foi extraído a partir do número CNJ completo, na página de consulta processual.
 
-- **Cobertura:** 768 dos 782 casos (98,2%) tiveram o valor da causa localizado; somatório geral de **R$ 18.552.987,71** entre os casos com valor encontrado.
-- **Os 14 casos restantes (1,8%)** não retornaram valor da causa em nenhuma das duas consultas públicas.
-- **Tratamento dos casos sem valor:** marcados como "não disponível" no dashboard e na planilha, e **excluídos do somatório** — nunca presumidos como zero. O quadro de cada município sinaliza quando o somatório cobre apenas parte dos processos daquele município.
-- **Dados brutos da coleta:** `data/valor_causa.csv` (consulta e-SAJ, um valor por CNJ, status `OK`/`NOT_FOUND`/`NO_FIELD`); `data/eproc_valor_causa.csv` (consulta eproc complementar, mesmo formato, 233 CNJs); `data/municipio_sums.json` (somatório final combinando as duas fontes, nº de casos com valor e nº total de casos, por município).
+- **Cobertura:** 778 dos 779 casos (99,9%) têm valor da causa localizado; somatório geral de **R$ 18.680.769,72** entre os casos com valor encontrado.
+- **O caso restante (0,1%)** corre em segredo de justiça e não tem valor da causa divulgado publicamente.
+- **Tratamento dos casos sem valor:** marcado como "segredo de justiça" no dashboard e na planilha, e **excluído do somatório** — nunca presumido como zero.
+- **Dados brutos da coleta:** `data/valor_causa.csv` (consulta e-SAJ, um valor por CNJ, status `OK`/`NOT_FOUND`/`NO_FIELD`); `data/eproc_valor_causa.csv` (consulta eproc complementar, mesmo formato, 233 CNJs); `data/municipio_sums.json` (somatório final combinando as duas fontes mais a verificação manual, nº de casos com valor e nº total de casos, por município).
 
 ## Estrutura de arquivos
 
 ```
 index.html                    — dashboard (Leaflet, mapa coroplético + ranking + quadro de processos por município, com valor da causa e somatório)
-dados_jurimetria_782_casos.xlsx — planilha com os 782 casos (CNJ + valor da causa + link), resumo por município (com somatório) e por consulta
+dados_jurimetria_782_casos.xlsx — planilha com os 779 casos (CNJ + valor da causa + link), resumo por município (com somatório) e por consulta — nome do arquivo mantido por histórico
 sp_municipios.json             — GeoJSON simplificado dos 645 municípios de SP (fonte: tbrugz/geodata-br)
 leaflet.css, images/           — assets da biblioteca Leaflet 1.9.4
-data/raw_results_v2.csv        — dados brutos coletados (933 linhas, antes de dedup/filtro), com CNJ completo
-data/clean_results_v2.csv      — após deduplicação e filtro 2018+ (782 linhas), com CNJ completo
+data/raw_results_v2.csv        — dados brutos coletados (933 linhas, antes de dedup/filtro), com CNJ completo; mantém os 3 casos criminais depois excluídos, como registro histórico da coleta
+data/clean_results_v2.csv      — após deduplicação, filtro 2018+ e exclusão dos 3 casos fora do escopo (779 linhas), com CNJ completo
 data/geo_input_v2.csv          — clean_results_v2.csv + município normalizado + código IBGE + valor da causa
 data/municipio_counts.json     — contagem agregada por município (id IBGE)
 data/municipio_cases.json      — lista de processos (CNJ + link + data + valor da causa) por município, usada pelo quadro do dashboard
@@ -81,7 +83,8 @@ data/raw_results.csv, clean_results.csv, geo_input.csv — versões anteriores (
 - A comarca é inferida do título do resultado de busca (ou da página individual do caso, nos ~2% de casos em que o título não trazia o número formatado), não do inteiro teor da decisão — pode haver imprecisão residual em casos de formatação atípica do processo.
 - Cada caso está mapeado a um único município (o da comarca de origem do processo); não há desagregação por vara/foro regional dentro do município.
 - Não houve leitura do mérito das decisões; a amostra reflete ocorrência de termos nos resultados de busca, não necessariamente a aplicação efetiva de "decisão automatizada" no sentido jurídico do art. 20 da LGPD.
-- O valor da causa está disponível para 98,2% dos casos (768 de 782; ver seção acima), combinando consulta ao e-SAJ/TJSP (CNJ iniciado em "0"/"1") e ao eproc/TJSP (CNJ iniciado em "4", Juizados Especiais Cíveis). Os 14 casos restantes (1,8%) não retornaram valor da causa em nenhuma das duas consultas públicas. Os somatórios apresentados no dashboard e na planilha refletem apenas os processos com valor efetivamente localizado — não são proxies do valor total real da amostra.
+- O valor da causa está disponível para 99,9% dos casos (778 de 779; ver seção acima), combinando consulta ao e-SAJ/TJSP (CNJ iniciado em "0"/"1"), ao eproc/TJSP (CNJ iniciado em "4", Juizados Especiais Cíveis) e verificação manual dos casos remanescentes. O caso restante corre em segredo de justiça e não tem valor divulgado publicamente. Os somatórios apresentados no dashboard e na planilha refletem apenas os processos com valor efetivamente localizado — não são proxies do valor total real da amostra.
+- **Revisão de escopo (31/10/2026):** dos 14 casos inicialmente sem valor da causa, 3 eram processos criminais (desabamento/desmoronamento, sequestro/cárcere privado e tráfico de drogas) capturados pela coincidência textual da busca no Jusbrasil, mas fora do escopo civil desta pesquisa; foram excluídos do banco (de 782 para 779 casos) após revisão manual. Isso reduz, ainda que marginalmente, as contagens por consulta e por município nos três casos afetados (Guarulhos, Patrocínio Paulista e Lorena) em relação às versões anteriores deste repositório.
 
 ---
 **AVISO:** Este repositório foi gerado com auxílio de IA. Revisão humana e validação metodológica são necessárias antes de uso em publicação acadêmica.
