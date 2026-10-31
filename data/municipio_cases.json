@@ -4,71 +4,81 @@
    "cnj": "4058263-40.2026.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7742102965",
    "data": "28/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 16960.67,
+   "valor_status": "OK",
+   "valor_raw": "16.960,67"
   },
   {
    "cnj": "4000612-44.2026.8.26.0005",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7740388805",
    "data": "28/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 11100.0,
+   "valor_status": "OK",
+   "valor_raw": "11.100,00"
   },
   {
    "cnj": "4000612-44.2026.8.26.0005",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7740388804",
    "data": "28/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 11100.0,
+   "valor_status": "OK",
+   "valor_raw": "11.100,00"
   },
   {
    "cnj": "4024069-69.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7737245113",
    "data": "27/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 15000.0,
+   "valor_status": "OK",
+   "valor_raw": "15.000,00"
   },
   {
    "cnj": "4167741-80.2026.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7735727450",
    "data": "27/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 17000.0,
+   "valor_status": "OK",
+   "valor_raw": "17.000,00"
   },
   {
    "cnj": "4011155-15.2026.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7719222318",
    "data": "23/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 20040.0,
+   "valor_status": "OK",
+   "valor_raw": "20.040,00"
   },
   {
    "cnj": "4001600-46.2026.8.26.0270",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7711143453",
    "data": "22/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 16586.66,
+   "valor_status": "OK",
+   "valor_raw": "16.586,66"
   },
   {
    "cnj": "4012957-67.2026.8.26.0223",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7710858538",
    "data": "22/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 41924.48,
+   "valor_status": "OK",
+   "valor_raw": "41.924,48"
   },
   {
    "cnj": "4125996-23.2026.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7710942661",
    "data": "22/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4014866-34.2026.8.26.0001",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7710541933",
    "data": "22/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 20000.0,
+   "valor_status": "OK",
+   "valor_raw": "20.000,00"
   },
   {
    "cnj": "1053578-75.2025.8.26.0100",
@@ -82,337 +92,385 @@
    "cnj": "4003856-60.2026.8.26.0011",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7710733384",
    "data": "21/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 65400.0,
+   "valor_status": "OK",
+   "valor_raw": "65.400,00"
   },
   {
    "cnj": "4003603-72.2026.8.26.0011",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7709823320",
    "data": "21/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 18640.0,
+   "valor_status": "OK",
+   "valor_raw": "18.640,00"
   },
   {
    "cnj": "4021130-19.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7698011800",
    "data": "20/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 16848.0,
+   "valor_status": "OK",
+   "valor_raw": "16.848,00"
   },
   {
    "cnj": "4011304-08.2026.8.26.0004",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7698489981",
    "data": "20/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4002228-75.2026.8.26.0483",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7695954499",
    "data": "20/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 15000.0,
+   "valor_status": "OK",
+   "valor_raw": "15.000,00"
   },
   {
    "cnj": "4034273-20.2026.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7698084650",
    "data": "20/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 11000.0,
+   "valor_status": "OK",
+   "valor_raw": "11.000,00"
   },
   {
    "cnj": "4002387-42.2026.8.26.0572",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7699882135",
    "data": "20/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 42579.84,
+   "valor_status": "OK",
+   "valor_raw": "42.579,84"
   },
   {
    "cnj": "4120403-13.2026.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7682338430",
    "data": "16/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 1000.0,
+   "valor_status": "OK",
+   "valor_raw": "1.000,00"
   },
   {
    "cnj": "4016898-79.2026.8.26.0011",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7682170402",
    "data": "16/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4115669-19.2026.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7673696295",
    "data": "16/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4005374-43.2026.8.26.0704",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7626768125",
    "data": "14/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4085480-92.2025.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7626621748",
    "data": "14/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 16232.99,
+   "valor_status": "OK",
+   "valor_raw": "16.232,99"
   },
   {
    "cnj": "4011420-08.2026.8.26.0006",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7629577358",
    "data": "14/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 20302.96,
+   "valor_status": "OK",
+   "valor_raw": "20.302,96"
   },
   {
    "cnj": "4018345-84.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7619654021",
    "data": "13/10/2026",
-   "valor": null,
-   "valor_status": "NO_FIELD"
+   "valor": 22000.0,
+   "valor_status": "OK",
+   "valor_raw": "22.000,00"
   },
   {
    "cnj": "4012339-61.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7616762329",
    "data": "13/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 15000.0,
+   "valor_status": "OK",
+   "valor_raw": "15.000,00"
   },
   {
    "cnj": "4067236-18.2025.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7616751911",
    "data": "13/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4018983-08.2026.8.26.0506",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7620943338",
    "data": "13/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 31520.0,
+   "valor_status": "OK",
+   "valor_raw": "31.520,00"
   },
   {
    "cnj": "4000151-81.2026.8.26.0584",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7617919973",
    "data": "13/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 15000.0,
+   "valor_status": "OK",
+   "valor_raw": "15.000,00"
   },
   {
    "cnj": "4001023-19.2026.8.26.0157",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7608371925",
    "data": "12/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 16213.33,
+   "valor_status": "OK",
+   "valor_raw": "16.213,33"
   },
   {
    "cnj": "4010511-30.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7582754151",
    "data": "09/10/2026",
-   "valor": null,
-   "valor_status": "NO_FIELD"
+   "valor": 15000.0,
+   "valor_status": "OK",
+   "valor_raw": "15.000,00"
   },
   {
    "cnj": "4028395-75.2026.8.26.0016",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7580454045",
    "data": "09/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 39748.6,
+   "valor_status": "OK",
+   "valor_raw": "39.748,60"
   },
   {
    "cnj": "4021008-06.2026.8.26.0114",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7581042633",
    "data": "09/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 96900.66,
+   "valor_status": "OK",
+   "valor_raw": "96.900,66"
   },
   {
    "cnj": "4022280-35.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7580307699",
    "data": "09/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4007016-02.2026.8.26.0009",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7574725349",
    "data": "08/10/2026",
-   "valor": null,
-   "valor_status": "NO_FIELD"
+   "valor": 16866.67,
+   "valor_status": "OK",
+   "valor_raw": "16.866,67"
   },
   {
    "cnj": "4001668-37.2025.8.26.0009",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7571712007",
    "data": "08/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 32289.62,
+   "valor_status": "OK",
+   "valor_raw": "32.289,62"
   },
   {
    "cnj": "4033125-32.2026.8.26.0016",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7571728605",
    "data": "08/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4011511-79.2026.8.26.0562",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7570113770",
    "data": "08/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 15000.0,
+   "valor_status": "OK",
+   "valor_raw": "15.000,00"
   },
   {
    "cnj": "4024936-62.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7554392385",
    "data": "07/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 12000.0,
+   "valor_status": "OK",
+   "valor_raw": "12.000,00"
   },
   {
    "cnj": "4015404-67.2026.8.26.0016",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7556137124",
    "data": "07/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 64800.0,
+   "valor_status": "OK",
+   "valor_raw": "64.800,00"
   },
   {
    "cnj": "4024680-22.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7559579755",
    "data": "06/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 17986.66,
+   "valor_status": "OK",
+   "valor_raw": "17.986,66"
   },
   {
    "cnj": "4005083-67.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7547811055",
    "data": "06/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 19573.33,
+   "valor_status": "OK",
+   "valor_raw": "19.573,33"
   },
   {
    "cnj": "4007954-20.2026.8.26.0066",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7547802819",
    "data": "06/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4006319-39.2026.8.26.0604",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7525643476",
    "data": "05/10/2026",
-   "valor": null,
-   "valor_status": "NO_FIELD"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4012431-87.2026.8.26.0001",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7528187823",
    "data": "05/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4001279-70.2026.8.26.0606",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7486994861",
    "data": "02/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 16413.76,
+   "valor_status": "OK",
+   "valor_raw": "16.413,76"
   },
   {
    "cnj": "4109488-02.2026.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7487769576",
    "data": "02/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 15000.0,
+   "valor_status": "OK",
+   "valor_raw": "15.000,00"
   },
   {
    "cnj": "4059957-44.2026.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7487478870",
    "data": "02/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 30000.0,
+   "valor_status": "OK",
+   "valor_raw": "30.000,00"
   },
   {
    "cnj": "4080199-24.2026.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7487602835",
    "data": "02/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 11000.0,
+   "valor_status": "OK",
+   "valor_raw": "11.000,00"
   },
   {
    "cnj": "4005593-98.2026.8.26.0011",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7486291260",
    "data": "02/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 35671.2,
+   "valor_status": "OK",
+   "valor_raw": "35.671,20"
   },
   {
    "cnj": "4024088-20.2026.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7475323666",
    "data": "01/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4017567-17.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7479603324",
    "data": "01/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 0.0,
+   "valor_status": "OK",
+   "valor_raw": "0,00"
   },
   {
    "cnj": "4015706-93.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7474865961",
    "data": "01/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4000067-67.2025.8.26.0341",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7475511272",
    "data": "01/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 23619.95,
+   "valor_status": "OK",
+   "valor_raw": "23.619,95"
   },
   {
    "cnj": "4000041-69.2025.8.26.0341",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7473712853",
    "data": "01/10/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 18490.0,
+   "valor_status": "OK",
+   "valor_raw": "18.490,00"
   },
   {
    "cnj": "4016691-07.2026.8.26.0003",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7459930022",
    "data": "30/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 21470.0,
+   "valor_status": "OK",
+   "valor_raw": "21.470,00"
   },
   {
    "cnj": "4044540-51.2026.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7683204624",
    "data": "30/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4004863-14.2026.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7461047571",
    "data": "30/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 11000.0,
+   "valor_status": "OK",
+   "valor_raw": "11.000,00"
   },
   {
    "cnj": "4021046-66.2026.8.26.0001",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7682862156",
    "data": "29/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 17928.02,
+   "valor_status": "OK",
+   "valor_raw": "17.928,02"
   },
   {
    "cnj": "1137198-92.2026.8.26.0053",
@@ -426,190 +484,217 @@
    "cnj": "4008018-96.2026.8.26.0529",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7437420876",
    "data": "28/09/2026",
-   "valor": null,
-   "valor_status": "NO_FIELD"
+   "valor": 62568.27,
+   "valor_status": "OK",
+   "valor_raw": "62.568,27"
   },
   {
    "cnj": "4006815-87.2026.8.26.0048",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7682039920",
    "data": "26/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 52585.04,
+   "valor_status": "OK",
+   "valor_raw": "52.585,04"
   },
   {
    "cnj": "4008171-16.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7405627233",
    "data": "25/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 46000.0,
+   "valor_status": "OK",
+   "valor_raw": "46.000,00"
   },
   {
    "cnj": "4001931-34.2026.8.26.0462",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7405901331",
    "data": "25/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4002055-11.2025.8.26.0152",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7405610066",
    "data": "25/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 30000.0,
+   "valor_status": "OK",
+   "valor_raw": "30.000,00"
   },
   {
    "cnj": "4000675-59.2026.8.26.0655",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7681915699",
    "data": "24/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 16120.0,
+   "valor_status": "OK",
+   "valor_raw": "16.120,00"
   },
   {
    "cnj": "4074003-38.2026.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7400573083",
    "data": "24/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 11000.0,
+   "valor_status": "OK",
+   "valor_raw": "11.000,00"
   },
   {
    "cnj": "4012043-02.2026.8.26.0482",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7403137931",
    "data": "24/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4005845-82.2026.8.26.0664",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7390072245",
    "data": "23/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 20000.0,
+   "valor_status": "OK",
+   "valor_raw": "20.000,00"
   },
   {
    "cnj": "4059089-66.2026.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7682395495",
    "data": "23/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 11000.0,
+   "valor_status": "OK",
+   "valor_raw": "11.000,00"
   },
   {
    "cnj": "4004798-92.2026.8.26.0011",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7418272900",
    "data": "22/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 21346.67,
+   "valor_status": "OK",
+   "valor_raw": "21.346,67"
   },
   {
    "cnj": "4019844-06.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7386847582",
    "data": "22/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 11941.33,
+   "valor_status": "OK",
+   "valor_raw": "11.941,33"
   },
   {
    "cnj": "4063981-18.2026.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7383018413",
    "data": "22/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4003886-23.2026.8.26.0229",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7383030309",
    "data": "22/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 242577.94,
+   "valor_status": "OK",
+   "valor_raw": "242.577,94"
   },
   {
    "cnj": "4013542-58.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7681966204",
    "data": "21/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 16773.33,
+   "valor_status": "OK",
+   "valor_raw": "16.773,33"
   },
   {
    "cnj": "4014250-29.2026.8.26.0011",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7681817137",
    "data": "21/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 22000.0,
+   "valor_status": "OK",
+   "valor_raw": "22.000,00"
   },
   {
    "cnj": "4005183-69.2026.8.26.0066",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7367142514",
    "data": "20/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 13500.0,
+   "valor_status": "OK",
+   "valor_raw": "13.500,00"
   },
   {
    "cnj": "4011468-31.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7358336679",
    "data": "18/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 15000.0,
+   "valor_status": "OK",
+   "valor_raw": "15.000,00"
   },
   {
    "cnj": "4000702-23.2026.8.26.0338",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7682554650",
    "data": "18/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 16906.67,
+   "valor_status": "OK",
+   "valor_raw": "16.906,67"
   },
   {
    "cnj": "4004842-93.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7682242576",
    "data": "18/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 17240.0,
+   "valor_status": "OK",
+   "valor_raw": "17.240,00"
   },
   {
    "cnj": "4048626-68.2026.8.26.0002",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7350753123",
    "data": "17/09/2026",
-   "valor": null,
-   "valor_status": "NO_FIELD"
+   "valor": 24053.6,
+   "valor_status": "OK",
+   "valor_raw": "24.053,60"
   },
   {
    "cnj": "4005729-04.2026.8.26.0009",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7681849759",
    "data": "17/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 15000.0,
+   "valor_status": "OK",
+   "valor_raw": "15.000,00"
   },
   {
    "cnj": "4002719-09.2026.8.26.0281",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7675710616",
    "data": "17/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4016894-42.2026.8.26.0011",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7351402231",
    "data": "17/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4006322-62.2026.8.26.0161",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7674520173",
    "data": "16/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 16673.94,
+   "valor_status": "OK",
+   "valor_raw": "16.673,94"
   },
   {
    "cnj": "4015965-88.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7344319896",
    "data": "16/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4001827-37.2026.8.26.0302",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7675794876",
    "data": "16/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "1013031-45.2024.8.26.0482",
@@ -623,36 +708,41 @@
    "cnj": "4010068-12.2026.8.26.0007",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7673735385",
    "data": "15/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 16120.0,
+   "valor_status": "OK",
+   "valor_raw": "16.120,00"
   },
   {
    "cnj": "4009216-46.2026.8.26.0602",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7681602196",
    "data": "15/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4008378-06.2026.8.26.0602",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7681687550",
    "data": "15/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 30000.0,
+   "valor_status": "OK",
+   "valor_raw": "30.000,00"
   },
   {
    "cnj": "4002878-86.2026.8.26.0010",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7579658149",
    "data": "14/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 15373.33,
+   "valor_status": "OK",
+   "valor_raw": "15.373,33"
   },
   {
    "cnj": "4012803-06.2026.8.26.0011",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7320261184",
    "data": "14/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "1009683-53.2024.8.26.0309",
@@ -666,50 +756,57 @@
    "cnj": "4002968-52.2026.8.26.0606",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7579584435",
    "data": "11/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4019379-94.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7681843703",
    "data": "11/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 13338.6,
+   "valor_status": "OK",
+   "valor_raw": "13.338,60"
   },
   {
    "cnj": "4003304-02.2026.8.26.0624",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7670365983",
    "data": "10/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 75804.14,
+   "valor_status": "OK",
+   "valor_raw": "75.804,14"
   },
   {
    "cnj": "4082204-19.2026.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7578581372",
    "data": "10/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 75000.0,
+   "valor_status": "OK",
+   "valor_raw": "75.000,00"
   },
   {
    "cnj": "4005912-66.2026.8.26.0011",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7577191165",
    "data": "10/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4009375-50.2026.8.26.0032",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7580631979",
    "data": "10/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4109013-46.2026.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7577697442",
    "data": "09/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 18080.0,
+   "valor_status": "OK",
+   "valor_raw": "18.080,00"
   },
   {
    "cnj": "1032441-37.2025.8.26.0100",
@@ -723,92 +820,105 @@
    "cnj": "4070581-55.2026.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7349196994",
    "data": "09/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 11000.0,
+   "valor_status": "OK",
+   "valor_raw": "11.000,00"
   },
   {
    "cnj": "4013220-56.2026.8.26.0011",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7352789094",
    "data": "09/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 11866.9,
+   "valor_status": "OK",
+   "valor_raw": "11.866,90"
   },
   {
    "cnj": "4007510-55.2026.8.26.0011",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7350466715",
    "data": "09/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 11072.0,
+   "valor_status": "OK",
+   "valor_raw": "11.072,00"
   },
   {
    "cnj": "4009054-97.2026.8.26.0037",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7578015287",
    "data": "09/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 22560.0,
+   "valor_status": "OK",
+   "valor_raw": "22.560,00"
   },
   {
    "cnj": "4011796-58.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7578587929",
    "data": "08/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 15746.67,
+   "valor_status": "OK",
+   "valor_raw": "15.746,67"
   },
   {
    "cnj": "4002447-16.2026.8.26.0604",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7575070523",
    "data": "08/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4009304-48.2025.8.26.0011",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7379024340",
    "data": "08/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 16904.0,
+   "valor_status": "OK",
+   "valor_raw": "16.904,00"
   },
   {
    "cnj": "4006655-21.2026.8.26.0482",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7348435722",
    "data": "06/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 30000.0,
+   "valor_status": "OK",
+   "valor_raw": "30.000,00"
   },
   {
    "cnj": "4006070-89.2026.8.26.0248",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7318301644",
    "data": "04/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 15000.0,
+   "valor_status": "OK",
+   "valor_raw": "15.000,00"
   },
   {
    "cnj": "4006070-51.2026.8.26.0099",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7577669230",
    "data": "04/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 15000.0,
+   "valor_status": "OK",
+   "valor_raw": "15.000,00"
   },
   {
    "cnj": "4001555-43.2026.8.26.0011",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7574505989",
    "data": "03/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 6809.99,
+   "valor_status": "OK",
+   "valor_raw": "6.809,99"
   },
   {
    "cnj": "4000979-26.2026.8.26.0019",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7573567604",
    "data": "03/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 13500.0,
+   "valor_status": "OK",
+   "valor_raw": "13.500,00"
   },
   {
    "cnj": "4004269-60.2026.8.26.0565",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7572840751",
    "data": "02/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 5000.0,
+   "valor_status": "OK",
+   "valor_raw": "5.000,00"
   },
   {
    "cnj": "1021590-42.2025.8.26.0001",
@@ -822,309 +932,353 @@
    "cnj": "4012269-35.2026.8.26.0020",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7668219450",
    "data": "02/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 89316.28,
+   "valor_status": "OK",
+   "valor_raw": "89.316,28"
   },
   {
    "cnj": "4007198-25.2026.8.26.0320",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7666518630",
    "data": "02/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 13500.0,
+   "valor_status": "OK",
+   "valor_raw": "13.500,00"
   },
   {
    "cnj": "4000330-12.2025.8.26.0370",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7572043741",
    "data": "02/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 55175.0,
+   "valor_status": "OK",
+   "valor_raw": "55.175,00"
   },
   {
    "cnj": "4001782-97.2026.8.26.0604",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7669827997",
    "data": "01/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 16400.0,
+   "valor_status": "OK",
+   "valor_raw": "16.400,00"
   },
   {
    "cnj": "4002466-60.2026.8.26.0268",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7577848974",
    "data": "01/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4010282-70.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7577968025",
    "data": "01/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 17240.0,
+   "valor_status": "OK",
+   "valor_raw": "17.240,00"
   },
   {
    "cnj": "4010243-87.2026.8.26.0562",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7184283561",
    "data": "01/09/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4016205-77.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7356856060",
    "data": "31/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 47388.19,
+   "valor_status": "OK",
+   "valor_raw": "47.388,19"
   },
   {
    "cnj": "4001797-41.2026.8.26.0483",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7356882648",
    "data": "31/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 15000.0,
+   "valor_status": "OK",
+   "valor_raw": "15.000,00"
   },
   {
    "cnj": "4002962-84.2026.8.26.0011",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7362696012",
    "data": "31/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4010243-87.2026.8.26.0562",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7355970864",
    "data": "31/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4116730-12.2026.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7356485159",
    "data": "31/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 26074.48,
+   "valor_status": "OK",
+   "valor_raw": "26.074,48"
   },
   {
    "cnj": "4000278-60.2026.8.26.0441",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7357463070",
    "data": "28/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 16493.33,
+   "valor_status": "OK",
+   "valor_raw": "16.493,33"
   },
   {
    "cnj": "4016667-34.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7356028071",
    "data": "28/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 30000.0,
+   "valor_status": "OK",
+   "valor_raw": "30.000,00"
   },
   {
    "cnj": "4016992-09.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7357009197",
    "data": "28/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 64000.0,
+   "valor_status": "OK",
+   "valor_raw": "64.000,00"
   },
   {
    "cnj": "4012818-54.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7355676694",
    "data": "28/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 17146.66,
+   "valor_status": "OK",
+   "valor_raw": "17.146,66"
   },
   {
    "cnj": "4015277-29.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7348257596",
    "data": "26/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 30000.0,
+   "valor_status": "OK",
+   "valor_raw": "30.000,00"
   },
   {
    "cnj": "4016275-94.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7348255403",
    "data": "26/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 44835.87,
+   "valor_status": "OK",
+   "valor_raw": "44.835,87"
   },
   {
    "cnj": "4048791-15.2026.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7362332904",
    "data": "26/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 16120.0,
+   "valor_status": "OK",
+   "valor_raw": "16.120,00"
   },
   {
    "cnj": "4027382-41.2026.8.26.0016",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7347526883",
    "data": "26/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4006222-72.2026.8.26.0011",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7197361630",
    "data": "26/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 16151.42,
+   "valor_status": "OK",
+   "valor_raw": "16.151,42"
   },
   {
    "cnj": "4009080-58.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7353587466",
    "data": "25/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 16866.66,
+   "valor_status": "OK",
+   "valor_raw": "16.866,66"
   },
   {
    "cnj": "4012486-87.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7341038748",
    "data": "21/08/2026",
-   "valor": null,
-   "valor_status": "NO_FIELD"
+   "valor": 16680.0,
+   "valor_status": "OK",
+   "valor_raw": "16.680,00"
   },
   {
    "cnj": "4002350-08.2026.8.26.0348",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7078758441",
    "data": "21/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 17333.33,
+   "valor_status": "OK",
+   "valor_raw": "17.333,33"
   },
   {
    "cnj": "4015793-10.2026.8.26.0224",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7339923169",
    "data": "21/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 30000.0,
+   "valor_status": "OK",
+   "valor_raw": "30.000,00"
   },
   {
    "cnj": "4006827-25.2025.8.26.0020",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7341238169",
    "data": "21/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 15000.0,
+   "valor_status": "OK",
+   "valor_raw": "15.000,00"
   },
   {
    "cnj": "4010139-81.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7149432468",
    "data": "20/08/2026",
-   "valor": null,
-   "valor_status": "NO_FIELD"
+   "valor": 16586.67,
+   "valor_status": "OK",
+   "valor_raw": "16.586,67"
   },
   {
    "cnj": "4110928-33.2026.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7342988401",
    "data": "20/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 12000.0,
+   "valor_status": "OK",
+   "valor_raw": "12.000,00"
   },
   {
    "cnj": "4093043-06.2026.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7339106875",
    "data": "20/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 17613.33,
+   "valor_status": "OK",
+   "valor_raw": "17.613,33"
   },
   {
    "cnj": "4013082-71.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7340673450",
    "data": "20/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 17053.33,
+   "valor_status": "OK",
+   "valor_raw": "17.053,33"
   },
   {
    "cnj": "4007307-91.2026.8.26.0529",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7339098209",
    "data": "20/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 15000.0,
+   "valor_status": "OK",
+   "valor_raw": "15.000,00"
   },
   {
    "cnj": "4002350-08.2026.8.26.0348",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7344804716",
    "data": "20/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 17333.33,
+   "valor_status": "OK",
+   "valor_raw": "17.333,33"
   },
   {
    "cnj": "4008459-61.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7344684017",
    "data": "20/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 13600.0,
+   "valor_status": "OK",
+   "valor_raw": "13.600,00"
   },
   {
    "cnj": "4001363-77.2026.8.26.0022",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7341203308",
    "data": "20/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 11000.0,
+   "valor_status": "OK",
+   "valor_raw": "11.000,00"
   },
   {
    "cnj": "4001618-61.2025.8.26.0348",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7365851200",
    "data": "20/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 92110.8,
+   "valor_status": "OK",
+   "valor_raw": "92.110,80"
   },
   {
    "cnj": "4039601-31.2026.8.26.0002",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7342619537",
    "data": "19/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 16239.51,
+   "valor_status": "OK",
+   "valor_raw": "16.239,51"
   },
   {
    "cnj": "4105514-54.2026.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7342006943",
    "data": "18/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4000849-42.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7345780603",
    "data": "18/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 13186.4,
+   "valor_status": "OK",
+   "valor_raw": "13.186,40"
   },
   {
    "cnj": "4021164-91.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7350373578",
    "data": "17/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 13500.0,
+   "valor_status": "OK",
+   "valor_raw": "13.500,00"
   },
   {
    "cnj": "4016516-08.2025.8.26.0016",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7334573199",
    "data": "17/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 60000.0,
+   "valor_status": "OK",
+   "valor_raw": "60.000,00"
   },
   {
    "cnj": "4002238-04.2026.8.26.0198",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7335297641",
    "data": "17/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 23341.4,
+   "valor_status": "OK",
+   "valor_raw": "23.341,40"
   },
   {
    "cnj": "4029032-23.2026.8.26.0114",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7334379935",
    "data": "17/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4105362-06.2026.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7340634642",
    "data": "17/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 15000.0,
+   "valor_status": "OK",
+   "valor_raw": "15.000,00"
   },
   {
    "cnj": "4001775-31.2026.8.26.0176",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7332555740",
    "data": "14/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 13500.0,
+   "valor_status": "OK",
+   "valor_raw": "13.500,00"
   },
   {
    "cnj": "1077771-65.2022.8.26.0002",
@@ -1138,36 +1292,41 @@
    "cnj": "4021957-64.2025.8.26.0114",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7560522168",
    "data": "14/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4001868-21.2026.8.26.0070",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7333478233",
    "data": "14/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 15000.0,
+   "valor_status": "OK",
+   "valor_raw": "15.000,00"
   },
   {
    "cnj": "4003702-98.2026.8.26.0348",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7333721243",
    "data": "14/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 212930.0,
+   "valor_status": "OK",
+   "valor_raw": "212.930,00"
   },
   {
    "cnj": "4007755-48.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7332736655",
    "data": "13/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 16586.67,
+   "valor_status": "OK",
+   "valor_raw": "16.586,67"
   },
   {
    "cnj": "4003991-54.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7334344812",
    "data": "13/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 15000.0,
+   "valor_status": "OK",
+   "valor_raw": "15.000,00"
   },
   {
    "cnj": "1069842-70.2025.8.26.0100",
@@ -1181,92 +1340,105 @@
    "cnj": "4001567-15.2026.8.26.0510",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7332180521",
    "data": "12/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 24569.42,
+   "valor_status": "OK",
+   "valor_raw": "24.569,42"
   },
   {
    "cnj": "4009147-14.2026.8.26.0602",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7344285737",
    "data": "10/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 27021.3,
+   "valor_status": "OK",
+   "valor_raw": "27.021,30"
   },
   {
    "cnj": "4000674-83.2026.8.26.0361",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7342826378",
    "data": "10/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 17893.33,
+   "valor_status": "OK",
+   "valor_raw": "17.893,33"
   },
   {
    "cnj": "4089986-77.2026.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7317704596",
    "data": "10/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 8307.67,
+   "valor_status": "OK",
+   "valor_raw": "8.307,67"
   },
   {
    "cnj": "4001845-42.2026.8.26.0081",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7341958190",
    "data": "10/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 26374.58,
+   "valor_status": "OK",
+   "valor_raw": "26.374,58"
   },
   {
    "cnj": "4005635-40.2026.8.26.0564",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7567456673",
    "data": "07/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 16493.33,
+   "valor_status": "OK",
+   "valor_raw": "16.493,33"
   },
   {
    "cnj": "4006580-22.2026.8.26.0016",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7349284786",
    "data": "07/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 48350.0,
+   "valor_status": "OK",
+   "valor_raw": "48.350,00"
   },
   {
    "cnj": "4001669-61.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7317711088",
    "data": "07/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4016225-68.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7317580315",
    "data": "06/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 15000.0,
+   "valor_status": "OK",
+   "valor_raw": "15.000,00"
   },
   {
    "cnj": "4004524-37.2026.8.26.0009",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7332619467",
    "data": "06/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4057768-93.2026.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7568615694",
    "data": "05/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4009370-14.2026.8.26.0554",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7329099881",
    "data": "05/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 17333.33,
+   "valor_status": "OK",
+   "valor_raw": "17.333,33"
   },
   {
    "cnj": "4012414-03.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7328550479",
    "data": "05/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "1050081-53.2025.8.26.0100",
@@ -1280,43 +1452,49 @@
    "cnj": "4004188-70.2026.8.26.0126",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7334810864",
    "data": "04/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 15000.0,
+   "valor_status": "OK",
+   "valor_raw": "15.000,00"
   },
   {
    "cnj": "4001774-92.2025.8.26.0269",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7324875592",
    "data": "03/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 20000.0,
+   "valor_status": "OK",
+   "valor_raw": "20.000,00"
   },
   {
    "cnj": "4008232-71.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7349334367",
    "data": "03/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 28000.0,
+   "valor_status": "OK",
+   "valor_raw": "28.000,00"
   },
   {
    "cnj": "4008860-60.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7325687258",
    "data": "03/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 13500.0,
+   "valor_status": "OK",
+   "valor_raw": "13.500,00"
   },
   {
    "cnj": "4063343-82.2026.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7348902965",
    "data": "03/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 15000.0,
+   "valor_status": "OK",
+   "valor_raw": "15.000,00"
   },
   {
    "cnj": "4003199-91.2026.8.26.0020",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7325220365",
    "data": "03/08/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 16680.0,
+   "valor_status": "OK",
+   "valor_raw": "16.680,00"
   },
   {
    "cnj": "1029581-63.2025.8.26.0100",
@@ -1330,204 +1508,233 @@
    "cnj": "4005862-40.2026.8.26.0011",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7324690836",
    "data": "31/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 15000.0,
+   "valor_status": "OK",
+   "valor_raw": "15.000,00"
   },
   {
    "cnj": "4002415-68.2026.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7325072260",
    "data": "31/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 1000.0,
+   "valor_status": "OK",
+   "valor_raw": "1.000,00"
   },
   {
    "cnj": "4000536-19.2026.8.26.0361",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7323297383",
    "data": "31/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 32828.98,
+   "valor_status": "OK",
+   "valor_raw": "32.828,98"
   },
   {
    "cnj": "4015240-02.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7317459401",
    "data": "30/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 15000.0,
+   "valor_status": "OK",
+   "valor_raw": "15.000,00"
   },
   {
    "cnj": "4011621-64.2026.8.26.0114",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7322051359",
    "data": "30/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4084398-26.2025.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7325465125",
    "data": "30/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 12000.0,
+   "valor_status": "OK",
+   "valor_raw": "12.000,00"
   },
   {
    "cnj": "4072730-58.2025.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7324358036",
    "data": "30/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 11000.0,
+   "valor_status": "OK",
+   "valor_raw": "11.000,00"
   },
   {
    "cnj": "4011154-12.2026.8.26.0009",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7321514227",
    "data": "29/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4000476-34.2026.8.26.0268",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7322331500",
    "data": "28/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 13186.4,
+   "valor_status": "OK",
+   "valor_raw": "13.186,40"
   },
   {
    "cnj": "4013284-48.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7322861312",
    "data": "28/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 15000.0,
+   "valor_status": "OK",
+   "valor_raw": "15.000,00"
   },
   {
    "cnj": "4003258-09.2026.8.26.0011",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7322822632",
    "data": "28/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 19209.33,
+   "valor_status": "OK",
+   "valor_raw": "19.209,33"
   },
   {
    "cnj": "4012094-50.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7325668797",
    "data": "27/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 16306.66,
+   "valor_status": "OK",
+   "valor_raw": "16.306,66"
   },
   {
    "cnj": "4014434-25.2026.8.26.0224",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7323264082",
    "data": "24/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 16866.67,
+   "valor_status": "OK",
+   "valor_raw": "16.866,67"
   },
   {
    "cnj": "4012111-86.2026.8.26.0114",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7322419473",
    "data": "24/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 17240.0,
+   "valor_status": "OK",
+   "valor_raw": "17.240,00"
   },
   {
    "cnj": "4000461-55.2026.8.26.0627",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7322724325",
    "data": "24/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4099653-87.2026.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7321781485",
    "data": "23/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4003966-41.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7317561175",
    "data": "23/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 20000.0,
+   "valor_status": "OK",
+   "valor_raw": "20.000,00"
   },
   {
    "cnj": "4004385-88.2026.8.26.0590",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7322763676",
    "data": "23/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 13500.0,
+   "valor_status": "OK",
+   "valor_raw": "13.500,00"
   },
   {
    "cnj": "4020772-42.2026.8.26.0506",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7320982835",
    "data": "20/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 15000.0,
+   "valor_status": "OK",
+   "valor_raw": "15.000,00"
   },
   {
    "cnj": "4005367-14.2026.8.26.0005",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7321296203",
    "data": "20/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 15000.0,
+   "valor_status": "OK",
+   "valor_raw": "15.000,00"
   },
   {
    "cnj": "4014232-87.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7319765596",
    "data": "17/07/2026",
-   "valor": null,
-   "valor_status": "NO_FIELD"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4001378-67.2026.8.26.0306",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7319154521",
    "data": "17/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 12000.0,
+   "valor_status": "OK",
+   "valor_raw": "12.000,00"
   },
   {
    "cnj": "4003541-18.2025.8.26.0609",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7319188987",
    "data": "17/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4062298-43.2026.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7320020030",
    "data": "16/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4005444-45.2026.8.26.0224",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7319158278",
    "data": "16/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 16045.33,
+   "valor_status": "OK",
+   "valor_raw": "16.045,33"
   },
   {
    "cnj": "4010739-13.2026.8.26.0564",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7319477186",
    "data": "16/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 13500.0,
+   "valor_status": "OK",
+   "valor_raw": "13.500,00"
   },
   {
    "cnj": "4060653-80.2026.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7317568106",
    "data": "16/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4003329-90.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7317406649",
    "data": "16/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 20000.0,
+   "valor_status": "OK",
+   "valor_raw": "20.000,00"
   },
   {
    "cnj": "4012819-39.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7317406468",
    "data": "16/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 16680.0,
+   "valor_status": "OK",
+   "valor_raw": "16.680,00"
   },
   {
    "cnj": "1011700-67.2025.8.26.0005",
@@ -1541,64 +1748,73 @@
    "cnj": "4006899-14.2026.8.26.0008",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7317551609",
    "data": "15/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 12000.0,
+   "valor_status": "OK",
+   "valor_raw": "12.000,00"
   },
   {
    "cnj": "4010397-12.2026.8.26.0011",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7567827026",
    "data": "15/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 80111.2,
+   "valor_status": "OK",
+   "valor_raw": "80.111,20"
   },
   {
    "cnj": "4011993-47.2025.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7317285643",
    "data": "15/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10500.0,
+   "valor_status": "OK",
+   "valor_raw": "10.500,00"
   },
   {
    "cnj": "4013005-62.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7318089255",
    "data": "15/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 15000.0,
+   "valor_status": "OK",
+   "valor_raw": "15.000,00"
   },
   {
    "cnj": "4009578-57.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7318503202",
    "data": "15/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10500.0,
+   "valor_status": "OK",
+   "valor_raw": "10.500,00"
   },
   {
    "cnj": "4005279-55.2026.8.26.0011",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7318193053",
    "data": "15/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4010164-94.2026.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7317311275",
    "data": "14/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 17053.33,
+   "valor_status": "OK",
+   "valor_raw": "17.053,33"
   },
   {
    "cnj": "4006137-86.2026.8.26.0011",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7317992378",
    "data": "14/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "4011996-38.2025.8.26.0005",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7318762210",
    "data": "14/07/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 13500.0,
+   "valor_status": "OK",
+   "valor_raw": "13.500,00"
   },
   {
    "cnj": "1015261-08.2025.8.26.0003",
@@ -1612,8 +1828,9 @@
    "cnj": "4001048-15.2026.8.26.0292",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7252232806",
    "data": "29/06/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 20000.0,
+   "valor_status": "OK",
+   "valor_raw": "20.000,00"
   },
   {
    "cnj": "1054949-77.2025.8.26.0002",
@@ -1667,8 +1884,9 @@
    "cnj": "4000586-66.2025.8.26.0236",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/6306208676",
    "data": "14/05/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 54980.0,
+   "valor_status": "OK",
+   "valor_raw": "54.980,00"
   },
   {
    "cnj": "1011550-92.2025.8.26.0100",
@@ -1770,8 +1988,9 @@
    "cnj": "4012335-58.2025.8.26.0405",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/6005023024",
    "data": "13/03/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 26926.67,
+   "valor_status": "OK",
+   "valor_raw": "26.926,67"
   },
   {
    "cnj": "1031306-90.2025.8.26.0002",
@@ -1809,8 +2028,9 @@
    "cnj": "1194316-50.2024.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/5621207016",
    "data": "23/02/2026",
-   "valor": null,
-   "valor_status": "NO_FIELD"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "0017034-08.2025.8.26.0100",
@@ -1832,15 +2052,17 @@
    "cnj": "4059157-50.2025.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/5523643278",
    "data": "21/01/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 5000.0,
+   "valor_status": "OK",
+   "valor_raw": "5.000,00"
   },
   {
    "cnj": "4059157-50.2025.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/5523635391",
    "data": "20/01/2026",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 5000.0,
+   "valor_status": "OK",
+   "valor_raw": "5.000,00"
   },
   {
    "cnj": "1068156-43.2025.8.26.0100",
@@ -2022,8 +2244,9 @@
    "cnj": "4021967-53.2025.8.26.0100",
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/5518091980",
    "data": "15/10/2025",
-   "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor": 10000.0,
+   "valor_status": "OK",
+   "valor_raw": "10.000,00"
   },
   {
    "cnj": "1010027-21.2025.8.26.0011",
@@ -2062,7 +2285,8 @@
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/4969895278",
    "data": "22/09/2025",
    "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor_status": "NOT_FOUND",
+   "valor_raw": null
   },
   {
    "cnj": "1022435-60.2024.8.26.0114",
@@ -2149,7 +2373,8 @@
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/4324980645",
    "data": "31/07/2025",
    "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor_status": "NOT_FOUND",
+   "valor_raw": null
   },
   {
    "cnj": "1007726-31.2025.8.26.0002",
@@ -2372,7 +2597,8 @@
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/3082405991",
    "data": "14/02/2025",
    "valor": null,
-   "valor_status": "NO_FIELD"
+   "valor_status": "NO_FIELD",
+   "valor_raw": null
   },
   {
    "cnj": "1154547-35.2024.8.26.0100",
@@ -2403,7 +2629,8 @@
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/3039902021",
    "data": "06/02/2025",
    "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor_status": "NOT_FOUND",
+   "valor_raw": null
   },
   {
    "cnj": "1133147-62.2024.8.26.0100",
@@ -2514,7 +2741,8 @@
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/2966270510",
    "data": "08/11/2024",
    "valor": null,
-   "valor_status": "NO_FIELD"
+   "valor_status": "NO_FIELD",
+   "valor_raw": null
   },
   {
    "cnj": "1037030-09.2024.8.26.0100",
@@ -2633,7 +2861,8 @@
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/7404676950",
    "data": "07/08/2024",
    "valor": null,
-   "valor_status": "NO_FIELD"
+   "valor_status": "NO_FIELD",
+   "valor_raw": null
   },
   {
    "cnj": "1007755-31.2023.8.26.0009",
@@ -2840,7 +3069,8 @@
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/3547817274",
    "data": "29/02/2024",
    "valor": null,
-   "valor_status": "NO_FIELD"
+   "valor_status": "NO_FIELD",
+   "valor_raw": null
   },
   {
    "cnj": "1070963-41.2022.8.26.0100",
@@ -3213,7 +3443,8 @@
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/6521523946",
    "data": "25/06/2026",
    "valor": null,
-   "valor_status": "NO_FIELD"
+   "valor_status": "NO_FIELD",
+   "valor_raw": null
   },
   {
    "cnj": "1021413-88.2025.8.26.0224",
@@ -3494,7 +3725,8 @@
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/5643190392",
    "data": "24/02/2026",
    "valor": null,
-   "valor_status": "NO_FIELD"
+   "valor_status": "NO_FIELD",
+   "valor_raw": null
   }
  ],
  "3525904": [
@@ -3895,7 +4127,8 @@
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/5023222287",
    "data": "01/10/2025",
    "valor": null,
-   "valor_status": "NO_FIELD"
+   "valor_status": "NO_FIELD",
+   "valor_raw": null
   },
   {
    "cnj": "1029776-51.2020.8.26.0576",
@@ -3994,7 +4227,8 @@
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/6812462597",
    "data": "26/02/2025",
    "valor": null,
-   "valor_status": "NO_FIELD"
+   "valor_status": "NO_FIELD",
+   "valor_raw": null
   },
   {
    "cnj": "1000871-93.2023.8.26.0426",
@@ -4021,7 +4255,8 @@
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/5430213294",
    "data": "19/12/2025",
    "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor_status": "NOT_FOUND",
+   "valor_raw": null
   }
  ],
  "3554102": [
@@ -5554,7 +5789,8 @@
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/3089866399",
    "data": "25/02/2025",
    "valor": null,
-   "valor_status": "NOT_FOUND"
+   "valor_status": "NOT_FOUND",
+   "valor_raw": null
   }
  ],
  "3541307": [
@@ -5865,7 +6101,8 @@
    "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/6171533436",
    "data": "18/05/2026",
    "valor": null,
-   "valor_status": "NO_FIELD"
+   "valor_status": "NO_FIELD",
+   "valor_raw": null
   },
   {
    "cnj": "1001879-55.2025.8.26.0323",
