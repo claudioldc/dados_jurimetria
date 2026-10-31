@@ -1,5 +1,5 @@
 {
-  "total_casos": 779,
+  "total_casos": 778,
   "periodo": "2018-2026",
   "tribunal": "TJSP",
   "data_coleta": "2026-10-30",
@@ -8,7 +8,7 @@
     {
       "query": "Q10_CD_recfacial_x_normatec",
       "label": "\"reconhecimento facial\" + \"norma técnica\"",
-      "count": 302
+      "count": 301
     },
     {
       "query": "Q5_C_bloqconta_x_A_decautom",
@@ -75,7 +75,7 @@
     },
     {
       "year": "2025",
-      "count": 166
+      "count": 165
     },
     {
       "year": "2026",
